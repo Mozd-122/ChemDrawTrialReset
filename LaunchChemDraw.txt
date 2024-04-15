@@ -1,0 +1,16 @@
+@echo off
+
+
+reg query "HKEY_CURRENT_USER\Software\PerkinElmerInformatics\ChemBioDraw\22.2\Ultra" /v "Launch Count" > nul && (
+Echo:
+Echo Reg Key deleted successfully
+reg delete "HKEY_CURRENT_USER\Software\PerkinElmerInformatics\ChemBioDraw\22.2\Ultra" /v "Launch Count" /f 
+
+
+) || (
+Echo:
+Echo Reg Key already deleted
+
+)
+
+"C:\Program Files\PerkinElmerInformatics\ChemOffice\ChemDraw\ChemDraw.exe"
