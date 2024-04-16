@@ -3,7 +3,7 @@ Script to reset ChemDraw trial activations
 
 Usage: 
 
-1. Download ChemDrawTrialReset.exe
+1. Download ChemDrawTrialReset.exe from releases tab
 2. Run (may need to be run as administrator)
 
 
