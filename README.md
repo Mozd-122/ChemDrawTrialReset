@@ -18,5 +18,5 @@ This may be useful if the .exe does not work
 Modifiying registry locations: 
 The default location is set to HKEY_CURRENT_USER\Software\PerkinElmerInformatics\ChemBioDraw\**.*\Ultra
 
-This may be altered by changing the 
-$keyNamePattern = "Registry::HKEY_CURRENT_USER\Software\PerkinElmerInformatics\ChemBioDraw\**.*\Ultra" value
+This may be altered by changing 
+$keyNamePattern = "Registry::HKEY_CURRENT_USER\Software\PerkinElmerInformatics\ChemBioDraw\**.*\Ultra"
