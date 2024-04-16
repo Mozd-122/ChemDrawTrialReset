@@ -1,6 +1,6 @@
 # ChemDrawTrialReset
 Script to reset ChemDraw trial activations
-
+Requires ChemDraw to be installed
 Works with ChemDraw 22
 
 Usage: 
