@@ -9,7 +9,8 @@ Works with ChemDraw 22
 Usage: 
 
 1. Download ChemDrawTrialReset.exe from releases tab
-2. Run (may need to be run as administrator)
+2. Download ChemDraw if necessary (provided in releases tab)
+3. Run (may need to be run as administrator)
 
 
 
