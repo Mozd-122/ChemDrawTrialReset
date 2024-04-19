@@ -11,6 +11,8 @@ _____
 1. Download and install ChemDraw if necessary (provided in releases tab)
 2. Download ChemDrawTrialReset.exe from releases tab
 3. Run (may need to be run as administrator)
+4. Windows defender may delete the .exe as it does most unsigned .exes
+  if you do not want to run the .exe instructions on running the script directly are below
 
 Alternative:
 This may be useful if the .exe does not work
